@@ -2,7 +2,8 @@
 
 # Hi, I'm Philip Kaplong Kerongo 
 
-### Data Analyst | Nairobi, Kenya
+### Data Analyst/Scientist
+| Nairobi, Kenya
 *Turning data into clear, useful insights, and growing toward AI*
 
 </div>
